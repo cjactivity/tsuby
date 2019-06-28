@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/407833078187294721/594069187106832385/introduction.png)
+![](https://cdn.discordapp.com/attachments/407833078187294721/594069187106832385/introduction.png) ![](https://cdn.discordapp.com/attachments/589834753897922617/594150823240400926/hackweek.png)
 
 **Tsuby** is a 
 
