@@ -60,6 +60,7 @@ these are the commands that make our bot entertaining and interactive
 |**9gag help**|`t-9gag help`| All the available memes related commands.|
 
 ***9gag related commands:***
+
 |Option|Commands|Description|
 |------|-------|-----------|
 |**sections**|`t-9gag sections`| to get the list of 9gag categories.|
@@ -72,6 +73,7 @@ these are the commands that make our bot entertaining and interactive
 |**coc help**|`t-coc help`|  All the Clash of Clans related commands.|
 
 ***CoC related commands:***
+
 |Option|Commands|Description|
 |------|-------|-----------|
 |**clan**|`t-coc clan <clan_tag>`| Fetches information about the given clan.|
@@ -83,6 +85,7 @@ these are the commands that make our bot entertaining and interactive
 |**jokes help**|`t-jokes help`|All the available jokes related commands.|
 
 ***Jokes related commands:***
+
 |Option|Commands|Description|
 |------|-------|-----------|
 |**category**|`t-jokes category`| to get the list of jokes categories
@@ -94,6 +97,7 @@ these are the commands that make our bot entertaining and interactive
 |**tr help**|`t-tr help`|All the translation related commands.|
 
 ***Translator related commands:***
+
 |Option|Commands|Admin Required| Description|
 |------|-------|--------|-----------|
 |**codes**|`t-tr codes`| No|displays the list of language codes.|
@@ -102,7 +106,8 @@ these are the commands that make our bot entertaining and interactive
 |**remove**|`t-tr remove [<user> <user> ... <user>]`|Yes|Disables auto translation of all the mentioned 'user'.|
 |**to**| `t-tr to <dest.> <src> <message>`|No| Translates the message to the 'dest.' language from the 'src' language.|
 
-#### Translator Sub Commands
+***Translator sub commands:****
+
 |Option|Command|Description|
 |------|-------|-----------|
 |**auto on/off**|`t-tr auto on <dest.><src>`|Enables server-wide auto-translation of your message to the 'dest.' language from the 'src' language.|
