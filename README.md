@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/589834753897922617/594154886770196481/introduction_dchckweek.png) 
+![](https://cdn.discordapp.com/attachments/589834753897922617/594160894397906944/introduction2.png) 
 
 **Tsuby** is a 
 
