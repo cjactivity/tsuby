@@ -106,7 +106,7 @@ these are the commands that make our bot entertaining and interactive
 |**remove**|`t-tr remove [<user> <user> ... <user>]`|Yes|Disables auto translation of all the mentioned 'user'.|
 |**to**| `t-tr to <dest.> <src> <message>`|No| Translates the message to the 'dest.' language from the 'src' language.|
 
-***Translator sub commands:****
+***Translator sub commands:***
 
 |Option|Command|Description|
 |------|-------|-----------|
