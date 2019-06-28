@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [Prefix & Commands](#PrefixCommands)
     - [Game](#Game)
     - [9gag](#9gag)
-    - [CoC](#CoC)
+    - [COC](#COC)
     - [Jokes](#Jokes)
     - [Translator](#Translator)
 - [License](#License)
@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 |**feedback**|`t-feedback <msg>`|send a feedback to the bot owner.|
 |**nitromojis**|`t-nitromojis` _then_ `t-ne <ntrimojiname>` _to use_ | List of all the nitromojis and let you use nitromojis from the list |
 |**ping**|`t-ping`|Pings the bot|
-|**react**|`t-react <emojiname>`_or_`<nitromojiname>` | tsuby will react to the last message of any any user|
+|**react**|`t-react <emojiname>`_or_`<nitromojiname>` | tsuby will react to the last message of any user|
 
 **Main Commands**
 
@@ -71,12 +71,12 @@ these are the commands that make our bot entertaining and interactive
 ||`t-9gag <section name>`| to get random post from 9gag.com.|
 ||`t-9gag <popular>(optional)<sections>(optional)`| to get random posts from 9gag.com _popular_ includes _Trending and Fresh_|
 
-#### CoC
+#### COC
 |Option|Command|Description|
 |------|-------|-----------|
 |**coc help**|`t-coc help`|  All the Clash of Clans related commands.|
 
-***CoC related commands:***
+***COC related commands:***
 
 |Option|Commands|Description|
 |------|-------|-----------|
