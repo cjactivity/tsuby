@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     - [COC](#COC)
     - [Jokes](#Jokes)
     - [Translator](#Translator)
-- [License](#License)
+- [Contributor](#Contributor)
 
 
 # Setup
@@ -119,10 +119,4 @@ these are the commands that make our bot entertaining and interactive
 |**ch on/off**| `t-tr ch on <dest.><src>`|  Enables channel-wide auto-translation of your message to the 'dest.' language from the 'src' language.|
 ||`t-tr ch off`| Disables your channel-wide auto-translation|
 
-## License
-
-
-    Tsuby - Copyright (C) 2019  Virtual Paradise
-    (Put here what license we were using)
-----
-
+# Contributor
