@@ -4,6 +4,8 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. 
 
+[![](https://cdn.discordapp.com/attachments/407833078187294721/594171785948168202/invite_dschackweek_256.png)](botlink)
+
 
 # Table of Contents
 
