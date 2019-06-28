@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 # Table of Contents
----
+
 - [Setup](#Setup)
 - [Prefix & Commands](#PrefixCommands)
     - [Game](#Game)
@@ -18,12 +18,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 # Setup
----
+
  put installation process here if there is..(step by step)
  
 
 # Prefix&Commands
----
+
 **Prefix**
 
 |Option|Default|Example|
@@ -118,7 +118,7 @@ these are the commands that make our bot entertaining and interactive
 ||`t-tr ch off`| Disables your channel-wide auto-translation|
 
 ## License
----
+
 
     Tsuby - Copyright (C) 2019  Virtual Paradise
     (Put here what license we were using)
