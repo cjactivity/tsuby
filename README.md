@@ -1,4 +1,5 @@
 ![](https://cdn.discordapp.com/attachments/407833078187294721/594069187106832385/introduction.png)
+
 **Tsuby** is a 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. 
@@ -7,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 # Table of Contents
 ---
 - [Setup](#Setup)
-- [Prefix & Commands](#Prefix&Commands)
+- [Prefix & Commands](#PrefixCommands)
     - [Game](#Game)
     - [9gag](#9gag)
     - [CoC](#CoC)
