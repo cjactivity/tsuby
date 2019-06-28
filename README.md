@@ -41,7 +41,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 |**react**|`t-react <emojiname>`_or_`<nitromojiname>` | tsuby will react to the last message of any any user|
 
 **Main Commands**
+
 these are the commands that make our bot entertaining and interactive
+
 #### Game
 |Option|Command|Description|
 |------|-------|-----------|
